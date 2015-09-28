@@ -20,7 +20,7 @@ setup(
         ],
     },
     scripts=[],
-    url='http://pypi.python.org/pypi/mwcli',
+    url='http://pypi.python.org/pypi/mwdiffs',
     license=open('LICENSE').read(),
     description='A set of utilities for processing revision diffs from ' +
                 'MediaWiki data.',
