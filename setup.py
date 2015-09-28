@@ -10,7 +10,7 @@ def requirements(fname):
 
 setup(
     name='mwdiffs',
-    version="0.0.1", # See also mwdiffs/__init__.py
+    version="0.0.2", # See also mwdiffs/__init__.py
     author='Aaron Halfaker',
     author_email='aaron.halfaker@gmail.com',
     packages=find_packages(),
